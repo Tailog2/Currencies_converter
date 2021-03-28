@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currencies converter</string>
+    <string name="convert_km_to_miles">Convert Km to Miles</string>
+    <string name="miles">Miles</string>
+    <string name="km">Km</string>
+    <string name="convert_miles_to_km">Convert Miles to Km</string>
+    <string name="write_miles">Write miles</string>
+</resources>
